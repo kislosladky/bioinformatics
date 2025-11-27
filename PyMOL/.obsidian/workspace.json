@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Отчет.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Отчет"
@@ -170,10 +170,17 @@
   },
   "active": "b682320b95f6fd1d",
   "lastOpenFiles": [
-    "Pasted image 20251127223855.png",
-    "Pasted image 20251127223846.png",
-    "Pasted image 20251127223652.png",
+    "command_line.png",
     "Отчет.md",
+    "Pasted.md",
+    "Pasted image 20251127223855.png",
+    "molecular_surface.png",
+    "Pasted image 20251127223652.png",
+    "menu.png",
+    "Pasted image 20251127223846.png",
+    "backbone.png",
+    "chains.png",
+    "CPK.png",
     "1a3n.pdb"
   ]
 }
